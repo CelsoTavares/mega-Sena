@@ -1,35 +1,44 @@
-/* *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box
-    ;
-} */
 body{
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: lightgray;
+    background-color: rgb(211, 231, 95);
     margin: 5px;
+    font-weight: bold;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 2px 1px 5px rgb(20, 241, 68);
+    color: rgb(48, 124, 224);
 }
 button{
     cursor: pointer;
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+    margin: 5px;
+    background: green;
+    color: aliceblue;
 }
 .numbers{
-    border: 1px solid black;
+    border: 2px solid rgb(14, 29, 170);
     padding: 10px;
     list-style-type: none;
     font-family: monospace;
     font-size: 20px;
     text-align: center;
+    color: rgb(73, 68, 68);
 }
 .number{
     display: inline-block;
     margin: 10px;
-    border: 1px solid gray;
+    border: 3px solid rgb(55, 163, 212);
     width: 25px;
     border-radius: 100%;
     padding: 5px;
     cursor: pointer;
     user-select: none;
+    background: white;
 }
 .selected-number{
     background: lightgreen;

@@ -1,14 +1,14 @@
 #  Sorteio Mega-Sena
-* ### Sobre
+* ## Sobre
     #### Projeto desenvolvido durante o minicamp da faculdade XP Dev &amp; Data.
 ![megaSena](https://user-images.githubusercontent.com/109553661/189251099-d42261d4-7e53-490f-8e32-b57311c3143d.png)
-* ### o que apreendi?
+* ## O que apreendi?
     *Em construção*
-* ### Tecnologias
+* ## Tecnologias
     #### HTML, CSS e JavaScript.
-* ### Links
+* ## Links
     #### [Projeto](https://mega-sena-dun.vercel.app/)
-* ### Autor
+* ## Autor
     #### *Celso Tavares*
    
 #####                                           Acesse também meu [Linkedin](https://www.linkedin.com/in/celsotavaresjunior/)
